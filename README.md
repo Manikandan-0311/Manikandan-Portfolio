@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Manikandan 👋
 
-<!--
-**Manikandan-0311/Manikandan-0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer
 
-Here are some ideas to get you started:
+💻 Tech Stack
+- React Native
+- Java
+- Spring Boot
+- Spring MVC
+- React.js
+- HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Mobile Development
+React Native Cross Platform Applications
+
+🌐 Web Development
+React.js + Java Spring Boot
+
+📫 Contact
+LinkedIn: linkedin.com/in/manikandan-m-9982a01a2
