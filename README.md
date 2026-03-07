@@ -1,8 +1,8 @@
-# Hi, I'm Manikandan 👋
+# Hi, I'm Manikandan 
 
 Full Stack Developer
 
-💻 Tech Stack
+# Tech Stack
 - React Native
 - Java
 - Spring Boot
@@ -10,11 +10,11 @@ Full Stack Developer
 - React.js
 - HTML, CSS
 
-📱 Mobile Development
+#Mobile Development
 React Native Cross Platform Applications
 
-🌐 Web Development
-React.js + Java Spring Boot
+# Web Development
+React.js 
 
-📫 Contact
+# Contact
 LinkedIn: linkedin.com/in/manikandan-m-9982a01a2
