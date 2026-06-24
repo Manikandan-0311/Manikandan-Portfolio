@@ -103,7 +103,7 @@ const About = () => {
             viewport={{ once: true }}
           >
             <div className="aspect-square rounded-lg bg-gradient-to-br from-blue-400/20 to-purple-600/20 border border-purple-500/20 flex items-center justify-center overflow-hidden">
-              <img src="/Manikandan-profile.png" alt="Manikandan M" className="w-full h-full object-cover" onError={(e) => {e.currentTarget.style.display = 'none'}} />
+              <img src="/manikandan_profile.png" alt="Manikandan M" className="w-full h-full object-cover" onError={(e) => { e.currentTarget.style.display = 'none' }} />
             </div>
           </motion.div>
 
